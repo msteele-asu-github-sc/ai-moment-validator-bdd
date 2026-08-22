@@ -1,4 +1,5 @@
 # AWS AI Moment Validation Framework (BDD Architecture Prototype)
+## SDET for AI - Manuel Steele
 
 This repository serves as a lightweight technical demonstration for an automated data validation framework targeting real-time, asynchronous AI/ML streaming data pipelines.
 
